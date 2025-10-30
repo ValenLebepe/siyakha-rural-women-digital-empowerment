@@ -6,7 +6,8 @@
 
 > *"Transforming rural women from entrepreneurs to e-preneurs through digital empowerment"*
 
-![Siyakha Platform Demo](path-to-your-gif/siyakha-demo.gif)
+![Siyakha Platform Demo](https://github.com/ValenLebepe/siyakha-rural-women-digital-empowerment/blob/main/showcase-materials/appliation-preview.gif)
+
 *Our platform in action - teaching website building to rural women entrepreneurs*
 
 ## 🚨 The Problem: The Digital Divide That Keeps Women Behind
@@ -24,13 +25,14 @@ While urban businesses thrive online, rural women face **four critical barriers*
 
 We built **more than an app** - we built an **ecosystem** that transforms digital exclusion into economic empowerment.
 
-![Our Presentation Slides](path-to-your-gif/presentation-slides.gif)
+![Our Presentation Slides](https://github.com/ValenLebepe/siyakha-rural-women-digital-empowerment/blob/main/showcase-materials/Siyakha%20Presentation%20GIF.gif)
+
 *Our competition presentation telling the Siyakha story*
 
 ### 🎯 How Siyakha Solves Each Barrier
 
 #### 🛠️ Solution 1: Learn Digital Skills (In Your Language)
-✅ Native Language Interface - Choose IsiZulu, IsiXhosa, TshiVenda, or English
+✅ Native Language Interface - Choose IsiZulu, IsiXhosa, TshiVenda, Swati, or English
 ✅ Multi-Level Learning - Beginner to Advanced at their own pace
 ✅ Micro-Learning Modules - Bite-sized lessons between household duties
 ✅ Women-Facilitated Labs - Safe, comfortable learning environments
@@ -56,7 +58,8 @@ We built **more than an app** - we built an **ecosystem** that transforms digita
 ## 🎬 See Siyakha in Action
 
 ### The Learning Journey
-![Platform Walkthrough](path-to-your-gif/platform-walkthrough.gif)
+![Platform Walkthrough](https://github.com/ValenLebepe/siyakha-rural-women-digital-empowerment/blob/main/showcase-materials/appliation-preview.gif)
+
 *Watch how a rural entrepreneur goes from first login to published website*
 
 ## 🌟 Why Siyakha Works Where Others Failed
