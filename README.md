@@ -111,7 +111,7 @@ siyakha-platform/
 │   ├── algorithms-logic/             # Complex computations
 │   └── deployment-setup/             # How to run everything
 │
-├── competition-materials/            # "The Showcase"  
+├── showcase-materials/            # "The Showcase"  
 │   ├── presentation-slides.gif
 │   ├── presentation-slides.pdf
 │   └── application-preview.gif/
