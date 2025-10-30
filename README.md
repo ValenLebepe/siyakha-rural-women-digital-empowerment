@@ -1,9 +1,10 @@
 # Siyakha: Digital Empowerment for Rural Women Entrepreneurs
 
 **🏆 3rd Place Winner** - ACM-W & WICS UCT Ideathon 2025  
+
 **A web platform** that teaches rural women entrepreneurs how to build websites for their businesses, addressing the digital divide through integrated digital and physical learning solutions.
 
-> *"We don't just teach websites - we build bridges to economic freedom"*
+> *"Transforming rural women from entrepreneurs to e-preneurs through digital empowerment"*
 
 ![Siyakha Platform Demo](path-to-your-gif/siyakha-demo.gif)
 *Our platform in action - teaching website building to rural women entrepreneurs*
