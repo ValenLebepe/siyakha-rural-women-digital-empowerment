@@ -1,155 +1,133 @@
-# Siyakha - Women Entrepreneurship Platform
+# Siyakha: Digital Empowerment for Rural Women Entrepreneurs
 
-A modern web platform designed to develop digital literacy and empower women entrepreneurs through education, resources, and community support.
+**🏆 3rd Place Winner** - ACM-W & WICS UCT Ideathon 2025  
+**A web platform** that teaches rural women entrepreneurs how to build websites for their businesses, addressing the digital divide through integrated digital and physical learning solutions.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite)
+> *"We don't just teach websites - we build bridges to economic freedom"*
 
-## Features
+![Siyakha Platform Demo](path-to-your-gif/siyakha-demo.gif)
+*Our platform in action - teaching website building to rural women entrepreneurs*
 
-- **User Authentication**: Secure email/password authentication powered by Supabase
-- **Digital Literacy Resources**: Access to 100+ learning resources
-- **Responsive Design**: Beautiful, mobile-first interface that works on all devices
-- **Modern Tech Stack**: Built with React, TypeScript, and Tailwind CSS
-- **Secure Database**: PostgreSQL database with Row Level Security (RLS)
+## 🚨 The Problem: The Digital Divide That Keeps Women Behind
 
-## Tech Stack
+### The Reality for Rural Women Entrepreneurs
+While urban businesses thrive online, rural women face **four critical barriers**:
+📵 Digital Isolation - No access to web development tools or education
+🗣️ Language Walls - English-dominated tech world excludes native speakers
+👵 Cultural Chains - "Technology is for men" mindset limits opportunities
+🛒 Market Invisibility - Amazing products, zero online presence
 
-- **Frontend**: React 18 with TypeScript
-- **Styling**: Tailwind CSS
-- **Build Tool**: Vite
-- **Backend**: Supabase (Authentication & Database)
-- **Database**: PostgreSQL with RLS policies
-- **Icons**: Lucide React
+*These women have the entrepreneurship spirit - they just need the digital tools.*
 
-## Project Structure
+## 💡 Our Solution: Siyakha ("We Are Building")
 
+We built **more than an app** - we built an **ecosystem** that transforms digital exclusion into economic empowerment.
+
+![Our Presentation Slides](path-to-your-gif/presentation-slides.gif)
+*Our competition presentation telling the Siyakha story*
+
+### 🎯 How Siyakha Solves Each Barrier
+
+#### 🛠️ Solution 1: Learn Digital Skills (In Your Language)
+✅ Native Language Interface - Choose IsiZulu, IsiXhosa, TshiVenda, or English
+✅ Multi-Level Learning - Beginner to Advanced at their own pace
+✅ Micro-Learning Modules - Bite-sized lessons between household duties
+✅ Women-Facilitated Labs - Safe, comfortable learning environments
+
+#### 🌐 Solution 2: Build Your Business Website
+✅ Drag-and-Drop Website Builder - No coding experience needed
+✅ E-Commerce Ready - Sell products directly through their site
+✅ Mobile-First Design - Works perfectly on smartphones
+✅ Business Templates - Pre-designed for common rural businesses
+
+#### 📈 Solution 3: Connect to Markets
+✅ Siyakha Marketplace - Collective visibility for all women-built sites
+✅ Partnership Network - PEP stores for delivery, Takealot for exposure
+✅ WhatsApp Integration - Share business links with local communities
+✅ Ad Revenue Sharing - Earn from women-focused advertisements
+
+#### 🔌 Solution 4: Physical Digital Hubs
+✅ Solar-Powered Centers - Renewable energy for sustainable access
+✅ Local Wi-Fi Towers - Extend connectivity to entire communities
+✅ Device Access - Tablets and computers for practical learning
+✅ Women-Only Spaces - Culturally appropriate learning environments
+
+## 🎬 See Siyakha in Action
+
+### The Learning Journey
+![Platform Walkthrough](path-to-your-gif/platform-walkthrough.gif)
+*Watch how a rural entrepreneur goes from first login to published website*
+
+## 🌟 Why Siyakha Works Where Others Failed
+
+### We Understand Real Lives
+- **Respects cultural rhythms** - learning fits around family responsibilities
+- **Speaks their language** - literally and metaphorically
+- **Builds on existing skills** - many are already successful entrepreneurs offline
+
+### Sustainable by Design
+☀️ Solar-powered hubs = No electricity bills
+📱 Mobile-first approach = Works with what they have
+🔄 Revenue-sharing model = Funds its own growth
+👩‍👧‍👧 Train-the-trainer model = Creates local experts
+
+## 🏆 Our Achievement
+
+**🏅 3rd Place Winner** - ACM-W & WICS UCT Ideathon 2025  
+*Recognized for developing the most impactful solution for rural women's digital education*
+
+## 🚀 The Future We're Building
+
+### Phase 1: Eastern Cape & KZN Pilot (6 months)
+- Launch first 2 solar-powered hubs
+- Train 100 women entrepreneurs
+- Prove the model works
+
+### Phase 2: National Expansion (Year 1)  
+- 5 new rural locations
+- Mobile app launch
+- 500+ women empowered
+
+### Phase 3: Continental Vision (Year 3)
+- Scale across Southern Africa
+- 10,000+ women running online businesses
+- Sustainable through ad revenue and partnerships
+
+## 👥 Our Story
+
+We're a team of UCT students who believed that **geography shouldn't determine destiny**. When we met rural women entrepreneurs with incredible products but no digital presence, we knew we had to build a bridge.
+
+**Siyakha isn't just a platform - it's a movement.** We're not just teaching websites; we're unlocking economic freedom, one woman at a time.
+
+## 📁 Repository Structure
+
+A high-level overview of the project organization:
 ```
-women-entrepreneurship-platform/
-├── src/
-│   ├── components/        # React components
-│   │   ├── Auth/         # Authentication components
-│   │   └── Home/         # Home page components
-│   ├── contexts/         # React contexts (Auth)
-│   ├── lib/              # Library configurations (Supabase)
-│   ├── styles/           # Global styles
-│   ├── types/            # TypeScript type definitions
-│   ├── hooks/            # Custom React hooks
-│   ├── utils/            # Utility functions
-│   └── assets/           # Static assets (images, logos)
-├── supabase/
-│   └── migrations/       # Database migrations
-├── docs/                 # Documentation
-└── public/               # Public static files
+siyakha-platform/
+│
+├── technical-core/                   # "The Nuts & Bolts"
+│   ├── full-stack-code/              # Website + database + APIs
+│   ├── algorithms-logic/             # Complex computations
+│   └── deployment-setup/             # How to run everything
+│
+├── competition-materials/            # "The Showcase"  
+│   ├── presentation-slides.gif
+│   ├── presentation-slides.pdf
+│   └── application-preview.gif/
+│
+└── README.md                         # "The Story"
 ```
 
-## Getting Started
+## 🏆 Awards & Recognition
 
-### Prerequisites
+**3rd Place** - ACM-W & WICS UCT Ideathon 2025  
+*"Most scalable solution for women's digital education in rural areas"*
 
-- Node.js 18+ and npm
-- A Supabase account (free tier available)
+## 👤 Author
 
-### Installation
+**Valen Lebepe**  
+- GitHub: [@ValenLebepe](https://github.com/ValenLebepe)
+- LinkedIn: [Valen Lebepe](https://www.linkedin.com/in/valenlebepe)  
+- Email: valenlebepe@gmail.com
 
-1. Clone the repository:
-```bash
-git clone https://github.com/ValenLebepe/women-entrepreneurship-platform.git
-cd women-entrepreneurship-platform
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Set up environment variables:
-
-Create a `.env` file in the root directory:
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-4. Run database migrations:
-
-The migrations are located in `supabase/migrations/`. Apply them through your Supabase dashboard or CLI.
-
-5. Start the development server:
-```bash
-npm run dev
-```
-
-The application will be available at `http://localhost:5173`
-
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-- `npm run typecheck` - Run TypeScript type checking
-
-## Database Setup
-
-This project uses Supabase for authentication and data storage. The database includes:
-
-- **profiles** table: User profile information
-- **Row Level Security (RLS)**: Ensures users can only access their own data
-
-All migrations are in the `supabase/migrations/` folder.
-
-## Authentication
-
-The platform uses Supabase Authentication with:
-- Email/password sign-up and login
-- Secure session management
-- Protected routes
-- Profile creation on sign-up
-
-## Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](./docs/CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Security
-
-- All database tables have Row Level Security (RLS) enabled
-- User data is protected and isolated
-- Environment variables are used for sensitive configuration
-- Passwords are hashed and never stored in plain text
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with [React](https://react.dev/)
-- Powered by [Supabase](https://supabase.com/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- Icons from [Lucide](https://lucide.dev/)
-
-## Support
-
-For support, please open an issue in the GitHub repository.
-
-## Roadmap
-
-- [ ] Add course management system
-- [ ] Implement community forums
-- [ ] Add mentorship matching
-- [ ] Create resource library
-- [ ] Mobile app development
-- [ ] Multi-language support
-
----
-
-Made with ❤️ for women entrepreneurs
+*"When you teach a woman to build a website, you don't just change her business - you change her world."*
