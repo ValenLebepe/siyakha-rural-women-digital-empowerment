@@ -17,13 +17,10 @@
 ### The Reality for Rural Women Entrepreneurs
 While urban businesses thrive online, rural women face **four critical barriers**:
 
-📵 Digital Isolation - No access to web development tools or education
-
-🗣️ Language Walls - English-dominated tech world excludes native speakers
-
-👵 Cultural Chains - "Technology is for men" mindset limits opportunities
-
-🛒 Market Invisibility - Amazing products, zero online presence
+- 📵 Digital Isolation - No access to web development tools or education
+- 🗣️ Language Walls - English-dominated tech world excludes native speakers
+- 👵 Cultural Chains - "Technology is for men" mindset limits opportunities
+- 🛒 Market Invisibility - Amazing products, zero online presence
 
 *These women have the entrepreneurship spirit - they just need the digital tools.*
 
@@ -40,41 +37,29 @@ We built **more than an app** - we built an **ecosystem** that transforms digita
 ### 🎯 How Siyakha Solves Each Barrier
 
 #### 🛠️ Solution 1: Learn Digital Skills (In Your Language)
-✅ Native Language Interface - Choose IsiZulu, IsiXhosa, TshiVenda, Swati, or English
-
-✅ Multi-Level Learning - Beginner to Advanced at their own pace
-
-✅ Micro-Learning Modules - Bite-sized lessons between household duties
-
-✅ Women-Facilitated Labs - Safe, comfortable learning environments
+- ✅ Native Language Interface - Choose IsiZulu, IsiXhosa, TshiVenda, Swati, or English
+- ✅ Multi-Level Learning - Beginner to Advanced at their own pace
+- ✅ Micro-Learning Modules - Bite-sized lessons between household duties
+- ✅ Women-Facilitated Labs - Safe, comfortable learning environments
 #
 #### 🌐 Solution 2: Build Your Business Website
-✅ Drag-and-Drop Website Builder - No coding experience needed
-
-✅ E-Commerce Ready - Sell products directly through their site
-
-✅ Mobile-First Design - Works perfectly on smartphones
-
-✅ Business Templates - Pre-designed for common rural businesses
+- ✅ Drag-and-Drop Website Builder - No coding experience needed
+- ✅ E-Commerce Ready - Sell products directly through their site
+- ✅ Mobile-First Design - Works perfectly on smartphones
+- ✅ Business Templates - Pre-designed for common rural businesses
 #
 #### 📈 Solution 3: Connect to Markets
-✅ Siyakha Marketplace - Collective visibility for all women-built sites
-
-✅ Partnership Network - PEP stores for delivery, Takealot for exposure
-
-✅ WhatsApp Integration - Share business links with local communities
-
-✅ Ad Revenue Sharing - Earn from women-focused advertisements
+- ✅ Siyakha Marketplace - Collective visibility for all women-built sites
+- ✅ Partnership Network - PEP stores for delivery, Takealot for exposure
+- ✅ WhatsApp Integration - Share business links with local communities
+- ✅ Ad Revenue Sharing - Earn from women-focused advertisements
 #
 #### 🔌 Solution 4: Physical Digital Hubs
-✅ Solar-Powered Centers - Renewable energy for sustainable access
+- ✅ Solar-Powered Centers - Renewable energy for sustainable access
+- ✅ Local Wi-Fi Towers - Extend connectivity to entire communities
+- ✅ Device Access - Tablets and computers for practical learning
+- ✅ Women-Only Spaces - Culturally appropriate learning environments
 
-✅ Local Wi-Fi Towers - Extend connectivity to entire communities
-
-✅ Device Access - Tablets and computers for practical learning
-
-✅ Women-Only Spaces - Culturally appropriate learning environments
-*
 ## 🎬 See Siyakha in Action
 
 ### The Learning Journey
@@ -93,13 +78,10 @@ We built **more than an app** - we built an **ecosystem** that transforms digita
 - **Builds on existing skills** - many are already successful entrepreneurs offline
 
 ### Sustainable by Design
-☀️ Solar-powered hubs = No electricity bills
-
-📱 Mobile-first approach = Works with what they have
-
-🔄 Revenue-sharing model = Funds its own growth
-
-👩‍👧‍👧 Train-the-trainer model = Creates local experts
+- ☀️ Solar-powered hubs = No electricity bills
+- 📱 Mobile-first approach = Works with what they have
+- 🔄 Revenue-sharing model = Funds its own growth
+- 👩‍👧‍👧 Train-the-trainer model = Creates local experts
 
 ## 🚀 The Future We're Building
 
