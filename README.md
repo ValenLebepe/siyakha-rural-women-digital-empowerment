@@ -101,6 +101,11 @@ We built **more than an app** - we built an **ecosystem** that transforms digita
 - Sustainable through ad revenue and partnerships
 
 ## 👥 Our Story
+<div align="center">
+  <img src="https://github.com/ValenLebepe/siyakha-rural-women-digital-empowerment/blob/main/showcase-materials/%F0%9F%A5%87Siyakha%20Team.jpg" width="450" alt="Siyakha Team Photo">
+  
+  *🏆The Siyakha team - that's me in the BRKYLN sweater, cream white trousers, and holding a thumbs up 👍🤭*
+</div>
 
 We're a team of UCT students who believed that **geography shouldn't determine destiny**. When we met rural women entrepreneurs with incredible products but no digital presence, we knew we had to build a bridge.
 
